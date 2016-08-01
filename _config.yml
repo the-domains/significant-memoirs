@@ -1,4 +1,3 @@
-layout_spectrum: 0.07215380296111107
 typography_spectrum: 0.9093151595443487
 color:
   brandStrength: 0.7305313099641353
@@ -11,5 +10,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+layout_spectrum: 0.07215380296111107
 name: Significant Memoirs
 title: A sharing place for anything and everything
+description: Feel free to share.
